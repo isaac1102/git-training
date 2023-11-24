@@ -1,0 +1,18 @@
+repo_name: isaac1102/git-training
+report_id: 0f824c0d771069dc7addd14b5b1d672a
+repo_type: Public
+timestamp: '2023-11-24T07:56:19+00:00'
+requested_by: bbhye1
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
